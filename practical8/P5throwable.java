@@ -19,7 +19,7 @@ public class P5throwable {
         else if (age<=17){
             System.out.println("!!Peson is not eligibable for vote");
         }
-        if (age>18){
+        else{
             System.out.println("you are eligible for vote");
         }
 
